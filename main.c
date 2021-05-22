@@ -5,9 +5,14 @@
 
 int main(void) {
 
-    printf("test output");
+    int input;
+
+    printf("Please enter an integer\n");
+
+    scanf("%d", &input);
+
+    printf("%d\n", input);
 
     return EXIT_SUCCESS;
-
 
 }
