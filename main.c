@@ -1,4 +1,4 @@
-/* test commit for the application main */
+/* email should read properly now */
 
 #include <stdlib.h>
 #include <stdio.h>
